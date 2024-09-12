@@ -90,7 +90,5 @@ public class Java2024_Test {
 
         // Test for Link.getLength()
         assertEquals(Math.sqrt(1), network.getLinks()[0].getLength());
-
-        assertEquals(, TestNetwork.main(null));
     }
 }
