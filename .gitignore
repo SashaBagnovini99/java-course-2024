@@ -1,2 +1,10 @@
 
 /java2024/target
+<<<<<<< Updated upstream
+=======
+/java2024/target
+*.class
+*.class
+/java2024/target
+java2024/target/test-classes/org/ethz/Java2024_Test.class
+>>>>>>> Stashed changes
